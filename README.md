@@ -1,39 +1,37 @@
-# Web Project
+# Health Buddy - Plataforma de Gestão de Saúde Integrada
 
-Este projeto é uma aplicação web que possui uma estrutura básica com HTML, CSS e JavaScript. Abaixo estão as informações sobre os arquivos e diretórios incluídos no projeto.
+![Banner do Health Buddy](assets/InterfaceSaúdeIntegrada.png)
 
-## Estrutura do Projeto
+## 📋 Descrição
+O **Health Buddy** é uma solução web completa para gestão de saúde, projetada para pacientes com condições crônicas e seus cuidadores. A plataforma oferece ferramentas integradas para monitoramento, medicamentos, agendamentos e suporte emocional.
 
-```
-web-project
-├── index.html        # Arquivo principal da aplicação web
-├── css
-│   └── style.css     # Estilos CSS para a aplicação
-├── js
-│   └── script.js     # Código JavaScript da aplicação
-├── assets            # Diretório contendo arquivos de mídia
-└── README.md         # Documentação do projeto
-```
+## ✨ Funcionalidades
 
-## Descrição dos Arquivos
+### 🩺 Monitoramento de Saúde
+- Registro de sintomas e indicadores vitais
+- Gráficos evolutivos e relatórios personalizáveis
+- Alertas automáticos para valores fora do padrão
 
-- **index.html**: Este é o arquivo principal da aplicação web. Ele contém a estrutura básica do HTML, incluindo links para o CSS e o JavaScript.
+### 💊 Gestão de Medicamentos
+- Sistema de lembretes inteligentes
+- Histórico completo de medicação
+- Interações medicamentosas (em desenvolvimento)
 
-- **css/style.css**: Este arquivo contém os estilos CSS para a aplicação. Ele define a aparência visual dos elementos HTML.
+### 📅 Agendamento Integrado
+- Busca geolocalizada de profissionais
+- Calendário de consultas sincronizado
+- Lembretes por email e notificação
 
-- **js/script.js**: Este arquivo contém o código JavaScript da aplicação. Ele pode incluir funcionalidades interativas e manipulação do DOM.
+## 🛠 Tecnologias Utilizadas
 
-- **assets/**: Este diretório contém os arquivos de mídia utilizados no projeto, como imagens e ícones.
+**Frontend:**
+- HTML5 semântico
+- CSS3 com Flexbox/Grid
+- JavaScript vanilla
+- Font Awesome 6
 
-## Instruções de Instalação
+**Design:**
+- UI/UX acessível (WCAG 2.1)
+- Responsividade mobile-first
+- Paleta de cores acessíveis
 
-1. Clone o repositório ou baixe os arquivos do projeto.
-2. Abra o arquivo `index.html` em um navegador para visualizar a aplicação.
-
-## Uso
-
-A aplicação pode ser utilizada diretamente no navegador. Modifique os arquivos `css/style.css` e `js/script.js` para personalizar a aparência e a funcionalidade da aplicação.
-
-## Informações Gerais
-
-Este projeto é uma demonstração básica de uma aplicação web. Sinta-se à vontade para expandir e modificar conforme necessário.
